@@ -1,0 +1,1 @@
+# SctHelperDesktop_Release
